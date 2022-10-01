@@ -25,7 +25,7 @@
                       <thead>
                         <tr>
                           <th>ID</th>
-                          <th>Identificación</th>
+                          <th>DPI</th>
                           <th>Nombres</th>
                           <th>Apellidos</th>
                           <th>Email</th>

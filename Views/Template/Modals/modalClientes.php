@@ -15,7 +15,7 @@
 
               <div class="form-row">
                 <div class="form-group col-md-4">
-                  <label for="txtIdentificacion">Identificación <span class="required">*</span></label>
+                  <label for="txtIdentificacion">DPI <span class="required">*</span></label>
                   <input type="text" class="form-control" id="txtIdentificacion" name="txtIdentificacion" required="">
                 </div>
                 <div class="form-group col-md-4">
@@ -45,7 +45,7 @@
               <p class="text-primary">Datos Fiscales.</p>
               <div class="form-row">
                 <div class="form-group col-md-6">
-                  <label>Identificación Tributaria <span class="required">*</span></label>
+                  <label>NIT <span class="required">*</span></label>
                   <input class="form-control" type="text" id="txtNit" name="txtNit" required="">
                 </div>
                 <div class="form-group col-md-6">
@@ -86,6 +86,7 @@
         <table class="table table-bordered">
           <tbody>
             <tr>
+            
               <td>Identificación:</td>
               <td id="celIdentificacion">654654654</td>
             </tr>
@@ -105,10 +106,12 @@
               <td>Email (Usuario):</td>
               <td id="celEmail">Larry</td>
             </tr>
+           
             <tr>
-              <td>Identificación Tributaria:</td>
+              <td>NIT:</td>
               <td id="celIde">Larry</td>
             </tr>
+
             <tr>
               <td>Nombre Fiscal:</td>
               <td id="celNomFiscal">Larry</td>
