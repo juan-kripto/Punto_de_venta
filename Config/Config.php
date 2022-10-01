@@ -18,8 +18,8 @@
 	const SPM = ",";
 
 	//Simbolo de moneda
-	const SMONEY = "$";
-	const CURRENCY = "USD";
+	const SMONEY = "Q";
+	const CURRENCY = "GTQ";
 
 	//Api PayPal
 	//SANDBOX PAYPAL

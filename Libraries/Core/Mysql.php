@@ -62,6 +62,28 @@
 			$del = $result->execute();
         	return $del;
 		}
+
+
+		public function beginTransaction()
+        {
+            return $this->conexion->beginTransaction();
+        }
+
+        public function commit()
+        {
+            return $this->conexion->commit();
+        }
+
+        public function rollback()
+        {
+            return $this->conexion->rollBack();
+        }
+
+        public function lastInsertId()
+        {
+            return $this->conexion->lastInsertId();
+        }
+
 	}
 
 

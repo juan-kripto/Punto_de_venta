@@ -49,7 +49,7 @@ if(isset($_SESSION['arrCarrito']) and count($_SESSION['arrCarrito']) > 0){
 										</div>
 									</td>
 									<td class="column-2"><?= $producto['producto'] ?></td>
-									<td class="column-3"><?= SMONEY.formatMoney($producto['precio']) ?></td>
+									<td class="column-3"><?= SMcONEY.formatMoney($producto['precio']) ?></td>
 									<td class="column-4">
 										<div class="wrap-num-product flex-w m-l-auto m-r-0">
 											<div class="btn-num-product-down cl8 hov-btn3 trans-04 flex-c-m"

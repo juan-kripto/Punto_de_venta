@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Pagina no encontrada</title>
+	<title>Modulo en mantenimiento..... aun no disponible....</title>
+	
 </head>
 <body>
-	<h1>Pagina no encontrada</h1>
+	<h1>Modulo en Mantenimiento..... aun no esta disponible...</h1>
+	<H2>gracias por visitar Adule .Fashion</h2>
 </body>
 </html>

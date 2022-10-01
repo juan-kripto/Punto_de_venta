@@ -149,11 +149,11 @@
 							</li>
 
 							<li>
-								<a href="<?= base_url(); ?>/tienda">Tienda</a>
+								<a href="<?= base_url(); ?>/tienda">Catalogo de productos</a>
 							</li>
 
 							<li>
-								<a href="<?= base_url(); ?>/carrito">Carrito</a>
+								<a href="<?= base_url(); ?>/carrito">Ver Carrito</a>
 							</li>
 
 							<li>
